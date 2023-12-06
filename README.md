@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @S30ULFR05T
-- 👀 I’m interested in Gaming, Computer Hardware, PC Building, PC and Laptop Repairing, UpSkilling Myself and Listening to Music.
+- 👀 I’m interested in Gaming, Computer Hardware, PC Building, PC and Laptop Repairing, Programming, UpSkilling Myself and Listening to Music.
 - 🌱 I’m currently learning Front-End Web Development.
 - 💞️ I’m looking to collaborate on Web Development Companies.
 - 📫 How to reach me :- kumarsuraj962536@gmail.com
