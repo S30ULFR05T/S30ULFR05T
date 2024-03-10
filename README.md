@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @S30ULFR05T
+- 👋 Hi, I’m Suraj Kumar.    also knows as S30ULFR05T
 - 👀 I’m interested in Gaming, Computer Hardware, PC Building, PC and Laptop Repairing, Programming, UpSkilling Myself and Listening to Music.
 - 🌱 I’m currently learning Front-End Web Development.
 - 💞️ I’m looking to collaborate with Web Development Companies to enhance my skills.
