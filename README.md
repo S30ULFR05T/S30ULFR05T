@@ -6,6 +6,8 @@
 
 🚀 Let's connect and code something awesome!
 
+🔗 LinkedIn :- https://www.linkedin.com/in/s30ulfr05t
+
 📫 How to reach me :- kumarsuraj962536@gmail.com
 
 <!---
