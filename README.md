@@ -1,16 +1,64 @@
-👋 Hello there! I'm Suraj Kumar, a passionate B.Tech student with a knack for Frontend Development and UI Design. Currently on the journey towards my 2024 graduation, I'm dedicated to creating intuitive user experiences and visually appealing designs.
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Suraj Kumar (S30ULFR05T).</h1>
+<h3 align="center">Frontend Developer | UI/UX Designer</h3>
 
-💻 My expertise lies in JavaScript and Python, which I leverage to build interactive and responsive websites. Beyond coding, I'm adept at using tools like Figma, VSDC, Filmora, and Canva for design and video editing projects.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&width=435&lines=Designing+with+purpose+🎨;Developing+with+precision+💻;Delivering+impact+🚀" alt="Typing SVG" />
+</p>
 
-🌟 I believe in the power of collaboration and continuous learning. I'm excited to connect with fellow developers, designers, and enthusiasts to exchange ideas, contribute to open-source projects, and embark on new learning adventures together.
+---
 
-🚀 Let's connect and code something awesome!
+### 🧠 About Me
 
-🔗 LinkedIn :- https://www.linkedin.com/in/s30ulfr05t
+- 🔭 I’m currently working on **playwright project**
+- 🌱 I’m learning more about **Frontend Development** using AngularJS and ReactJS.
+- 💬 Ask me about **Angular, React, UI/UX, PrimeNG, and advanced form handling**
+- ⚡ Fun fact: I name my projects like secret ops 😉
 
-📫 How to reach me :- kumarsuraj962536@gmail.com
+---
 
-<!---
-S30ULFR05T/S30ULFR05T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🛠️ Tech Stack
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,angular,react,tailwind" />
+  <br/>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" />
+  <br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,pycharm" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=S30ULFR05T&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S30ULFR05T&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S30ULFR05T&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 Contribution Graph
+
+<p align="center">
+<!--   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=S30ULFR05T&theme=tokyo-night" alt="activity graph"/> -->
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/s30ulfr05t/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:kumarsuraj952536@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<!--   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
+</p>
+
+---
+
+> 🧊 "Pixels are my brush, logic is my canvas."
+
