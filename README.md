@@ -21,10 +21,14 @@
 
 <p align="center">
   <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,angular,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,angular,react,nextjs,tailwind" />
   <br/>
   <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=nodejs,mysql,mongodb" />
+  <br/>
+  <!-- UI Libraries -->
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white" />
+  <img src="https://img.shields.io/badge/PrimeNG-3E83C2?style=for-the-badge&logo=primefaces&logoColor=white" />
   <br/>
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,pycharm" />
@@ -55,10 +59,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/s30ulfr05t/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:kumarsuraj952536@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<!--   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/></a> -->
+  <a href="https://s30ulfr05t.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
 
 > 🧊 "Pixels are my brush, logic is my canvas."
-
